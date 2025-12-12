@@ -68,7 +68,7 @@
 ## 📫 Connect With Me
 - GitHub: https://github.com/NomaanAi
 - Portfolio: (add deployed link)
-- Email: your-email@example.com
+- Email: nomanshaikh0998@gmail.com
 
 ---
 
