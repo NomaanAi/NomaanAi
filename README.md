@@ -67,7 +67,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/NomaanAi
-- Portfolio: (add deployed link)
+- Portfolio:https://nomaansportfolio.netlify.app/
 - Email: nomanshaikh0998@gmail.com
 
 ---
