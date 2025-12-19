@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nomaan
 
-🚀 Full-Stack MERN Developer | AI / ML Engineer  
+🚀 Full-Stack Developer | AI / ML Engineer  
 🎯 Building production-ready web applications with intelligent systems  
 🌍 Focused on scalable backend, clean UI, and real-world deployment
 
