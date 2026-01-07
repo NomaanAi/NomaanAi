@@ -31,8 +31,13 @@
 **AI / ML**
 - Python
 - NumPy, Pandas
+- Seaborn, MAtplotlib
+- Scikit Learn
+- Tensor Flow
+- Pythorch
 - Machine Learning fundamentals
 - Deep Learning basics
+  
 
 **Cloud & Tools**
 - Git & GitHub
@@ -40,6 +45,8 @@
 - Vercel (Frontend)
 - Render (Backend)
 - MongoDB Atlas
+- Docker
+- Kubernetes
 
 ---
 
