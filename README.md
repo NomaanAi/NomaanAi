@@ -1,69 +1,76 @@
 # 👋 Hi, I'm Nomaan
 
-🚀 Full-Stack Developer | AI / ML Engineer  
-🎯 Building production-ready web applications with intelligent systems  
-🌍 Focused on scalable backend, clean UI, and real-world deployment
+Full-Stack and AI Systems Developer focused on backend architecture, retrieval-based LLM systems, and deployable machine learning workflows.
+I build structured APIs, database-backed systems, and AI-driven applications with measurable logic and controlled outputs.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 BCA Student | Aspiring AI/ML Engineer  
-- 💻 Full-stack developer (React, Node.js, MongoDB)
-- 🤖 Working with Machine Learning & Deep Learning
-- ☁️ Experience with real deployments (Vercel, Render, MongoDB Atlas)
-- 📦 Built admin panels, authentication systems, and cloud-based uploads
+Develop full-stack applications using React, Next.js, and Node.js
+Design scalable REST APIs with authentication and role-based access
+Work with relational and document databases
+Build Retrieval-Augmented Generation (RAG) systems
+Implement ML monitoring, evaluation, and drift detection pipelines
+Deploy systems using Docker and cloud platforms
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React (Vite)
-- HTML, CSS, JavaScript
-- Tailwind / Modern UI
+Frontend:
+React
+Next.js
+HTML, CSS, JavaScript
+Tailwind CSS
+Streamlit (for ML dashboards)
 
-**Backend**
-- Node.js, Express
-- MongoDB, Mongoose
-- JWT Authentication
-- REST APIs
+Backend:
+Node.js
+Express.js
+TypeScript
+FastAPI
+Django
+Flask
+REST API Design
+JWT Authentication
 
-**AI / ML**
-- Python
-- NumPy, Pandas
-- Seaborn, MAtplotlib
-- Scikit Learn
-- Tensor Flow
-- Pythorch
-- Machine Learning fundamentals
-- Deep Learning basics
-  
+Databases:
+PostgreSQL
+MongoDB
+SQLite
+Prisma
+Mongoose
+ChromaDB
+FAISS
 
-**Cloud & Tools**
-- Git & GitHub
-- Cloudinary (Image storage)
-- Vercel (Frontend)
-- Render (Backend)
-- MongoDB Atlas
-- Docker
-- Kubernetes
+AI / Machine Learning:
+Python
+PyTorch
+scikit-learn
+XGBoost
+HuggingFace Transformers
+LangChain
+LlamaIndex
+Retrieval-Augmented Generation (RAG)
+Natural Language Processing (NLP)
+Transfer Learning
+Model Evaluation & Drift Detection
+Hybrid Retrieval (BM25 + Embeddings)
 
----
+Visualization & Monitoring:
+Matplotlib
+Seaborn
+Prometheus
+Grafana
 
-## 📌 Featured Project
+Deployment & Tools:
+Docker
+Git & GitHub
+Vercel
+Render
+MongoDB Atlas
 
-### 🔹 Full-Stack Portfolio with Admin Panel
-**Tech:** React, Node.js, MongoDB, Cloudinary, JWT  
 
-✔ Admin authentication  
-✔ Role-based access  
-✔ Image upload with Cloudinary  
-✔ Contact form with email integration  
-✔ Deployed frontend & backend  
-
-🔗 Repository: https://github.com/NomaanAi/Portfolio
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomaanAi&show_icons=true&theme=radical)
