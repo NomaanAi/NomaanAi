@@ -1,89 +1,80 @@
 # 👋 Hi, I'm Nomaan
 
-Full-Stack and AI Systems Developer focused on backend architecture, retrieval-based LLM systems, and deployable machine learning workflows.
-I build structured APIs, database-backed systems, and AI-driven applications with measurable logic and controlled outputs.
+AI Systems & Backend Engineer
+Building production-oriented LLM pipelines, monitoring frameworks, and backend architectures.
 
----
+What I Ship
 
-## 🧑‍💻 About Me
-Develop full-stack applications using React, Next.js, and Node.js
-Design scalable REST APIs with authentication and role-based access
-Work with relational and document databases
-Build Retrieval-Augmented Generation (RAG) systems
-Implement ML monitoring, evaluation, and drift detection pipelines
-Deploy systems using Docker and cloud platforms
+Retrieval-Augmented Generation (RAG) systems with hybrid search
 
----
+LLM evaluation and hallucination control pipelines
 
-## 🛠️ Tech Stack
+ML drift detection with retraining triggers
 
-Frontend:
-React
-Next.js
-HTML, CSS, JavaScript
-Tailwind CSS
-Streamlit (for ML dashboards)
+Role-based backend platforms with structured APIs
 
-Backend:
-Node.js
-Express.js
-TypeScript
-FastAPI
-Django
-Flask
-REST API Design
-JWT Authentication
+Deployable, containerized AI services
 
-Databases:
-PostgreSQL
-MongoDB
-SQLite
-Prisma
-Mongoose
-ChromaDB
-FAISS
+Core Systems Work
+🧠 LLM & AI Infrastructure
 
-AI / Machine Learning:
-Python
-PyTorch
-scikit-learn
-XGBoost
-HuggingFace Transformers
-LangChain
-LlamaIndex
-Retrieval-Augmented Generation (RAG)
-Natural Language Processing (NLP)
-Transfer Learning
-Model Evaluation & Drift Detection
-Hybrid Retrieval (BM25 + Embeddings)
+Hybrid retrieval (BM25 + embeddings)
 
-Visualization & Monitoring:
-Matplotlib
-Seaborn
-Prometheus
-Grafana
+RAG pipelines with citation enforcement
 
-Deployment & Tools:
-Docker
-Git & GitHub
-Vercel
-Render
-MongoDB Atlas
+LLM reliability benchmarking
 
+Adversarial prompt testing
 
+Drift detection (PSI, KS, KL)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomaanAi&show_icons=true&theme=radical)
+Model evaluation & retraining workflows
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomaanAi&layout=compact&theme=radical)
+Stack: Python, PyTorch, scikit-learn, XGBoost, HuggingFace, LangChain, LlamaIndex, FAISS, ChromaDB
 
----
+⚙️ Backend Architecture
 
-## 📫 Connect With Me
-- GitHub: https://github.com/NomaanAi
-- Portfolio:https://nomaansportfolio.vercel.app/
-- Email: nomanshaikh0998@gmail.com
+REST APIs with JWT authentication
 
----
+Role-based access control
 
-⭐ *Always learning. Always building.*
+Subscription and workflow engines
+
+Database schema design & optimization
+
+Stack: Node.js, Express, TypeScript, FastAPI, Django, Flask, PostgreSQL, MongoDB, Prisma
+
+📦 Deployment & Observability
+
+Containerized services (Docker)
+
+Metrics & monitoring (Prometheus, Grafana)
+
+Cloud deployment (Vercel, Render)
+
+Production-style separation of training/inference pipelines
+
+Selected Projects
+Production-Style Local RAG System
+
+Hybrid retrieval + citation enforcement + fallback control for grounded LLM outputs.
+
+ML Monitoring & Auto-Retraining Framework
+
+Feature drift detection with automated retraining triggers and model versioning.
+
+LLM Evaluation & Safety Framework
+
+Reliability scoring, hallucination checks, and adversarial prompt testing.
+
+Subscription & Workflow Platforms
+
+Backend-driven systems with authentication, role separation, and business logic enforcement.
+
+Contact
+
+Portfolio: https://nomaansportfolio.vercel.app/
+
+GitHub: https://github.com/NomaanAi
+
+Email: nomanshaikh0998@gmail.com
