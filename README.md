@@ -1,73 +1,128 @@
-# 🚀 **NOMAAN SHAIKH**
+<div align="center">
 
-### AI Systems & Backend Engineer  
-Building production-oriented LLM pipelines, monitoring frameworks, and backend architectures.
+# Nomaan Shaikh
 
----
+### Building AI Infrastructure • Backend Systems • Developer Platforms
 
-## 🔥 **What I Ship**
+I build production-grade software systems focused on reliability, scalability, and AI applications.
 
-- Retrieval-Augmented Generation (RAG) systems with hybrid search  
-- LLM evaluation and hallucination control pipelines  
-- ML drift detection with retraining triggers  
-- Role-based backend platforms with structured APIs  
-- Deployable, containerized AI services  
+Currently building **Vela**, **SignalFoundry**, and open-source infrastructure for modern AI systems.
+
+</div>
 
 ---
 
-## 🧠 **Core Systems Work**
+## Current Focus
 
-### 🧩 LLM & AI Infrastructure
-
-- Hybrid retrieval (BM25 + embeddings)  
-- RAG pipelines with citation enforcement  
-- LLM reliability benchmarking  
-- Adversarial prompt testing  
-- Drift detection (PSI, KS, KL)  
-- Model evaluation & retraining workflows  
-
-**Stack:** Python • PyTorch • scikit-learn • XGBoost • HuggingFace • LangChain • LlamaIndex • FAISS • ChromaDB  
+- AI Infrastructure
+- Retrieval-Augmented Generation (RAG)
+- Distributed Backend Systems
+- LLM Evaluation & Reliability
+- Computer Vision
+- Developer Platforms
 
 ---
 
-### ⚙️ Backend Architecture
+## Engineering Principles
 
-- REST APIs with JWT authentication  
-- Role-based access control  
-- Subscription and workflow engines  
-- Database schema design & optimization  
+I prefer building systems that are:
 
-**Stack:** Node.js • Express • TypeScript • FastAPI • Django • Flask • PostgreSQL • MongoDB • Prisma  
+- Reliable before clever
+- Observable before scalable
+- Simple before complex
+- Measurable before optimized
 
----
-
-### 📦 Deployment & Observability
-
-- Containerized services (Docker)  
-- Metrics & monitoring (Prometheus, Grafana)  
-- Cloud deployment (Vercel, Render)  
-- Training / inference pipeline separation  
+Every project I publish is intended to solve a real engineering problem rather than demonstrate a framework.
 
 ---
 
-## 🚧 **Selected Projects**
+## Tech Stack
 
-### Production-Style Local RAG System  
-Hybrid retrieval + citation enforcement + fallback control for grounded LLM outputs.
+### Languages
 
-### ML Monitoring & Auto-Retraining Framework  
-Feature drift detection with automated retraining triggers and model versioning.
+Python • TypeScript • JavaScript • C++
 
-### LLM Evaluation & Safety Framework  
-Reliability scoring, hallucination checks, and adversarial prompt testing.
+### AI / Machine Learning
 
-### Subscription & Workflow Platforms  
-Backend-driven systems with authentication, role separation, and business logic enforcement.
+PyTorch • scikit-learn • Hugging Face • LangChain • LlamaIndex • FAISS • ChromaDB • OpenCV
+
+### Backend
+
+FastAPI • Node.js • Express • PostgreSQL • MongoDB • Redis • Prisma
+
+### Infrastructure
+
+Docker • GitHub Actions • Linux • Prometheus • Grafana • Vercel
 
 ---
 
-## 📬 **Contact**
+# Building
 
-**Portfolio:** https://nomaansportfolio.vercel.app/  
-**GitHub:** https://github.com/NomaanAi  
-**Email:** nomanshaikh0998@gmail.com  
+## Vela
+
+AI development platform focused on modern agent workflows.
+
+---
+
+## SignalFoundry
+
+Engineering company building AI-powered enterprise software and backend infrastructure.
+
+---
+
+## Open Source
+
+Developing reusable infrastructure, backend tooling, and AI engineering utilities.
+
+---
+
+# Featured Projects
+
+### Production RAG System
+
+Hybrid retrieval with semantic search, citation grounding, evaluation, and hallucination mitigation.
+
+---
+
+### AI Evaluation Framework
+
+Benchmarking LLM quality using automated evaluation pipelines and adversarial testing.
+
+---
+
+### ML Monitoring Platform
+
+Feature drift detection, model versioning, retraining workflows, and deployment monitoring.
+
+---
+
+### Enterprise Backend Platform
+
+Authentication, RBAC, workflow orchestration, subscriptions, and scalable APIs.
+
+---
+
+# Currently Learning
+
+- Distributed Systems
+- GPU Computing
+- High-performance Inference
+- Multi-Agent Systems
+- Robotics Software
+- Systems Design
+
+---
+
+# Philosophy
+
+> Build software that continues working when complexity increases.
+
+---
+
+## Connect
+
+Portfolio → https://nomaansportfolio.vercel.app
+
+GitHub → https://github.com/NomaanAi
+
+Email → nomanshaikh0998@gmail.com
